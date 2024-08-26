@@ -5,5 +5,5 @@ NOTE: bobulator is currently only available for linux for now, i plan on adding 
 # how to run
 bobulator uses json files with the file extention .mpcc (Mini PC component)
 to run, do ```
-./bobulator cpuName.mpcc ramName.mpcc driveName.mpcc -gpuName.mpcc```
+./bobulator cpuName.mpcc ramName.mpcc driveName.mpcc -gpuName.mpcc``` <br>
 the command arguments that start with - are optional
