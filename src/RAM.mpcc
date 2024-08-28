@@ -1,0 +1,8 @@
+{
+    "componentType": "RAM",
+    "componentSpecs": {
+        "manufacturer": "Bobbly Wobbly's RAM",
+        "name": "BRAM 1KB",
+        "capacity": 1000
+    }
+}

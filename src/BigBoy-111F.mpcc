@@ -1,0 +1,13 @@
+{
+    "componentType": "CPU",
+    "componentSpecs": {
+        "manufacturer": "Bobbly Wobbly's Big Boy CPUs (And GPUs)",
+        "name": "BigBoy 111F",
+        "architecture": 4,
+        "programReg": 8,
+        "arithmeticReg": 3,
+        "cores": 1,
+        "threadsPerCore": 1,
+        "speedHZ": 1
+    }
+}

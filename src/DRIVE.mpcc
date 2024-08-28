@@ -1,0 +1,9 @@
+{
+    "componentType": "HARDDRIVE",
+    "componentSpecs": {
+        "manufacturer": "Bobbly Wobbly's SSDs",
+        "name": "BWSSD 1MB",
+        "capacity": 1000000
+    },
+    "componentData": {}
+}

@@ -1,0 +1,9 @@
+{
+    "componentType": "GPU",
+    "componentSpecs": {
+        "manufacturer": "Bobbly Wobbly's Big Boy CPUs (And GPUs)",
+        "name": "ORB 1443",
+        "pixels": "15552",
+        "speedHZ": "1"
+    }
+}

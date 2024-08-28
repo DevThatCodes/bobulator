@@ -1,0 +1,7 @@
+{
+    "name": "test",
+    "cpu": "BigBoy-111F.mpcc",
+    "ram": "RAM.mpcc",
+    "gpu": "ORB-1443.mpcc",
+    "harddrive": "DRIVE.mpcc"
+}

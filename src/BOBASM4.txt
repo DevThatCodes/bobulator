@@ -1,0 +1,15 @@
+BOBASM4 is the assembly language for 4bit CPUs made by Bobbly Wobbly's Big Boy CPUs (And GPUs)
+
+Register Related Instructions:
+-0001    LREG registerName  --  Loads register for arithmetic operations
+-0010    RREG registerName  --  Loads register to read from
+-0011    CREG registerName  --  Unloads all register that are currently loaded. if the register given has not been loaded, do nothing
+-0100    ADD number  --  writes the sum of the value from the currently loaded for arithmetic operations and number to the register that is currently loaded for arithmetic operations
+-0101    SUB number  --  writes the difference of the value from the currently loaded for arithmetic operations and number to the register that is currently loaded for arithmetic operations
+-0110    MULT number  --  writes the product of the value from the currently loaded for arithmetic operations and number to the register that is currently loaded for arithmetic operations
+-0111    DIV number  --  writes the quotient of the value from the currently loaded for arithmetic operations and number to the register that is currently loaded for arithmetic operations
+Program Related Instructions:
+-1000    JMP lineNumber  --  sets the program counter to lineNumber
+-1001    HALT --  stops the program counter
+I/O Outside of Cpu Related Instructions:
+-1010    PRT registerName  --  Prints what is currently being stored in the register
